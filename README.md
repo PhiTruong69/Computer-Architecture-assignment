@@ -57,7 +57,7 @@ Thời gian thực thi được đo bằng công thức:
 
 ---
 
-<h2>📚 Tài liệu tham khảo</h2>
+<h2> Tài liệu tham khảo</h2>
 <ol>
   <li><i>MIPS32™ Architecture For Programmers Volume II</i></li>
   <li><i>Computer Organization and Design: The Hardware/Software Interface</i> – David A. Patterson</li>
@@ -66,5 +66,5 @@ Thời gian thực thi được đo bằng công thức:
 ---
 
 <p align="center">
-  <sub><em>Built with ❤️ for Computer Architecture course</em></sub>
+  <sub><em>Built with Phi Truong for Computer Architecture course</em></sub>
 </p>
